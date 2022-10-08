@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Cursed Timer ULiL';
+    src: url(./CursedTimerUlil-Aznm.ttf);
+  }
+  
+  body {
+       background-color: #1B244A;
+       margin: 0;
+       text-align: center;
+  }
+  
+  .container {
+      margin: 0px;
+      text-align: center;
+      display: flex;
+      justify-content: space-around;
+  }
+  
+  .team{
+      color: #EEEEEE;
+      font-family: 'Verdana';
+      font-size: 40px;
+      margin-top: 60px;  
+      margin-bottom: 0px;
+      
+  }
+  
+  .score {
+      background: #080001;
+      font-size: 90px;
+      color: #F94F6D;
+      width: 155px;
+      margin: 20px;  
+      border-radius: 5px;
+      font-family: 'Cursed Timer ULiL';
+  }
+  
+  button {
+      background: none;
+      font-family: 'Cursed Timer ULiL';
+      border: 1px solid #9AABD8;
+      color: #9AABD8;
+      border-radius: 5px;
+      width: 45px;
+      height: 45px;
+      margin: 5px;
+      
+  }
+  
+  #nGame {
+      background: transparent;
+      width: 160px;
+      color: #EEEEEE;
+      border: 1px solid #EEEEEE;
+  }
+  
